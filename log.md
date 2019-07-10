@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 2: July 07, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: More of a recording of the past few days' work. Finished the 'night mode' mockup of the site. 'Day mode' is structurally complete, but color scheme is still subject to change.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Getting back into the swing of things with Figma was overall not difficult. Started slow, but thanks to past experience, I got used to it quicker.
+I want to stop with the mockup so I can start site development. I need to speak with Aaron to find out how he got started on his site
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** Will upload the mockups once I get the project directory established.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 5: July 10, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Spoke to Aaron about how to tackle this project. After some thinking, I've come to a decision (see 'Thoughts' below)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I might have to break one of the rules of the 100 Days of Code by using some of the days to learn the languages necessary. The more I learn about the languages, the better my experience in this project will be. I will start by finishing the SoloLearn course on JS, followed by ReactJS (method TBA). Then I'll move to Node. 
+At the end of the day, if I end up learning more about the languages and can apply them to the creation of GNA, it will all be worth it.  
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** Still have yet to establish a project directory, But Ive decided to create a folder in the 100-days-of-code directory to show images how far I've come in learning. 
