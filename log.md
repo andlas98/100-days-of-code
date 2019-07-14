@@ -17,3 +17,13 @@ I want to stop with the mockup so I can start site development. I need to speak 
 At the end of the day, if I end up learning more about the languages and can apply them to the creation of GNA, it will all be worth it.  
 
 **Link to work:** Still have yet to establish a project directory, But Ive decided to create a folder in the 100-days-of-code directory to show images how far I've come in learning. 
+
+### Day 8: July 13, 2019
+
+**Today's Progress**: After work, I finally did a full hour of code!! I learned a bit about JS object and object types. Managed to experiment a bit and the test worked!
+
+Also created a folder logging the progress I make in learning a programming language on SoloLearn. The folder is called 'CompletedLessonImgs'. It contains imgs, but I feel I should use a more concise way to display progress here
+
+**Thoughts:** Maybe I should my ability in HTML/CSS to make a static version of the site? Just to have something made that's quite relevant to the project? I'll probably give in and start working on it this week: I know how my mind works...
+
+**Link to work:** See 'CompletedLessonImgs' folder for today's progress.
