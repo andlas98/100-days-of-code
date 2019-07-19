@@ -27,3 +27,10 @@ Also created a folder logging the progress I make in learning a programming lang
 **Thoughts:** Maybe I should my ability in HTML/CSS to make a static version of the site? Just to have something made that's quite relevant to the project? I'll probably give in and start working on it this week: I know how my mind works...
 
 **Link to work:** See 'CompletedLessonImgs' folder for today's progress.
+
+### Day 13: July 18, 2019
+**Today's Progress**: Made headway into the static version of the website! Learned a bit about the CSS media function. It's sorta like an if statement, which made it pretty simple to understand
+
+**Thoughts:** I've not been the best when it comes to logging down progress. I need to do better, AND stick myself to doing an hour, maybe an hour and a half a day, rather than the 4 hours I spent today.
+
+**Link to work:** See the 'main' folder located in my "Gaming News Aggregator" repository for my progress on the static page. Then, check 'CompletedLessonImgs' folder for today's SoloLearn progress.
