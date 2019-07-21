@@ -33,4 +33,13 @@ Also created a folder logging the progress I make in learning a programming lang
 
 **Thoughts:** I've not been the best when it comes to logging down progress. I need to do better, AND stick myself to doing an hour, maybe an hour and a half a day, rather than the 4 hours I spent today.
 
-**Link to work:** See the 'main' folder located in my "Gaming News Aggregator" repository for my progress on the static page. Then, check 'CompletedLessonImgs' folder for today's SoloLearn progress.
+**Link to work:** See the 'main' folder located in my "Gaming News Aggregator" repository for my progress on the static page. Then, check 'CompletedLessonImgs' folder for today's SoloLearn progress. 
+
+### Day 15: July 20, 2019
+**Today's Progress**: Finished the 'Core Objects' and 'Functions' sections of SoloLearn's JS course! Two more to go and I can start on Node.
+
+**Thoughts:** Missed a day, which sucks, but at least I worked today! 
+
+When it comes to what I've been learning so far, its been pretty simple. The Date function is new, and might take a second to grasp, but its not too important a function to know right now. Math might be a bit more handy, and since it's familiar to the python iteration, it shouldn't be so bad.
+
+**Link to work:** Check 'CompletedLessonImgs' folder for today's SoloLearn progress.
