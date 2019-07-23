@@ -43,3 +43,10 @@ Also created a folder logging the progress I make in learning a programming lang
 When it comes to what I've been learning so far, its been pretty simple. The Date function is new, and might take a second to grasp, but its not too important a function to know right now. Math might be a bit more handy, and since it's familiar to the python iteration, it shouldn't be so bad.
 
 **Link to work:** Check 'CompletedLessonImgs' folder for today's SoloLearn progress.
+
+### Day 17: July 22, 2019
+**Today's Progress**: Delved into the DOM section of SoloLearn JS. It's a long section, with many new functions, specifically that of the DOM and how to manipulate its elements.
+
+**Thoughts:** As afrementioned, many more functions are introduced here. Being able to manipulate certain tags, ID's or classes sounds very useful. However, I wonder what the runtime will be...
+
+**Link to work:** Check 'CompletedLessonImgs' folder for today's SoloLearn progress.
