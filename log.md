@@ -50,3 +50,19 @@ When it comes to what I've been learning so far, its been pretty simple. The Dat
 **Thoughts:** As afrementioned, many more functions are introduced here. Being able to manipulate certain tags, ID's or classes sounds very useful. However, I wonder what the runtime will be...
 
 **Link to work:** Check 'CompletedLessonImgs' folder for today's SoloLearn progress.
+
+### Day 23: July 28, 2019
+**Today's Progress**: Finished the DOM Section! Now onto the last section, ECMAScript 6.
+
+**Thoughts:** A few days ago, I made it a personal goal to finish the SoloLearn course by the end of the month. I'm almost there, 
+
+**Link to work:** Check 'CompletedLessonImgs' folder for SoloLearn progress so far.
+
+### Day 26: July 31, 2019
+**Today's Progress**: With about 20 minutes to spare, I completed the SoloLearn JS course!
+
+**Thoughts:** It feels great to finally have it done, and I should feel proud about that, but I need to apply what I've learned to my project in order for it to have meaning! 
+
+Next is NodeJS. I'll most likely use youtube videos as my main resource. With hope, I'll find something relavent to my project with it!
+
+**Link to work:** Check 'CompletedLessonImgs' folder for the certifricate and some images of progress.
