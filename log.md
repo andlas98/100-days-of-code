@@ -66,3 +66,17 @@ When it comes to what I've been learning so far, its been pretty simple. The Dat
 Next is NodeJS. I'll most likely use youtube videos as my main resource. With hope, I'll find something relavent to my project with it!
 
 **Link to work:** Check 'CompletedLessonImgs' folder for the certifricate and some images of progress.
+
+### Day 43: August 17, 2019
+**Today's Progress**: Not really today's progress, more of approximately 2 weeks (on-and-off) progress. I managed to get index.html online thanks to ExpressJS. A look at the documentation and I got it working!
+
+**Thoughts:** I managed to get it online, great! But it took a while to get here and, to be completely honest, a lot of procrastination. I recognize that its a problem, because in my mind I haven't gotten to the **weirdest** part of development (grabbing the data from the sites). I'll have to move a bit quicker if I want to get a decent amount of the project done come career fair time.
+
+**Link to work:** Check my aggregator's repository at https://github.com/andlas98/GamingNewsAggregator
+
+### Day 52: August 26, 2019
+**Today's Progress**: Read up on incorporating an RSS feeder into the website. Will begin work on this tmmw morning.
+
+**Thoughts:** The RSS feeder will make it easy to incorporate news from Destrucoid, especially recent news. Only prob after that is creating the filtering system. 
+
+**Link to work:** N/A
